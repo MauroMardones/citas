@@ -1,31 +1,65 @@
 ---
-title: "Citas_Tesis"
-format: pdf
-editor: visual
+title: "Citas Tesis"
+format:
+  pdf:
+    toc: true
+    toc-title: "Indice de Contenidos"
+    number-sections: true
+    colorlinks: true
+    fontfamily: libertinus
+bibliography: citas.bib
+csl: apa.csl
+link-citations: yes
+linkcolor: blue
 ---
+\pagebreak
 
-## Quarto
+## DESCRIPCIÓN
 
-
-
+### Capitulo 1
 
 "...En aquel Imperio, el Arte de la Cartografía logró tal Perfección que el mapa de una sola Provincia ocupaba toda una Ciudad y el mapa del imperio, toda una Provincia. Con el tiempo, esos Mapas Desmesurados no satisfacieron y los Colegios de Cartógrafos levantaron un Mapa del Imperio, que tenía el tamaño del Imperio y coincidía puntualmente con él. Menos Adictas al Estudio de la Cartografía, las Generaciones Siguientes entendieron que ese dilatado Mapa era Inútil y no sin Impiedad lo entregaron a las Inclemencias del Sol y de los Inviernos. En los desiertos del Oeste perduran despedazadas Ruinas del Mapa, habitadas por Animales y por Mendigos; en todo el País no hay otra reliquia de las Disciplinas Geográficas."
 
-(Borges)
+[@Borges1965]
 
-## Running Code
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
-```{r}
-1 + 1
-```
+"Lo conocido es finito, lo desconocido infinito; desde el punto de vista intelectual estamos en una pequeña isla enmedio deun océano de ilimitable de inexplicabilidad. Nuestra tarea en cada generación es recuperar algo más de tierra".
 
-You can add options to executable code like this
+(Huxley, T. 1887)
 
-```{r}
-#| echo: false
-2 * 2
-```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+"Preferiría comprender una sola causa que ser Rey de Persia."
+
+Demócrito de Abdera
+
+"Y al cabo, nada os debo; debéisme cuanto he escrito. 
+
+
+"A mi trabajo acudo, con mi dinero pago 
+
+el traje que me cubre y la mansión que habito, 
+
+el pan que me alimenta y el lecho en donde yago.
+
+Y cuando llegue el día del último vïaje, 
+
+y esté al partir la nave que nunca ha de tornar, 
+
+me encontraréis a bordo ligero de equipaje, 
+
+casi desnudo, como los hijos de la mar."
+
+(Antonio Machado, 1938)
+
+"En el amor, locura es lo sensato"
+
+Antonio Machado, 1938)
+
+
+
+
+
+\pagebreak
+
+## REFERENCIAS
